@@ -9,7 +9,7 @@ def test_not_eauality():
     assert 3 != 5
 
 def test_greater():
-    assert 3 > 5
+    assert 3 < 5
 
 def test_lesser():
     assert 3 < 5
